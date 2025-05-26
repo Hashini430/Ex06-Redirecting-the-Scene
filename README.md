@@ -36,9 +36,6 @@ Print the Output and end the program.
 
 ## Program :
 
-### DEVELOPED BY:Sai Deshiya.K
-### REGISTER NUMBER : 212224220084
-
 ## CUBE PLAYER :
 
 ```
